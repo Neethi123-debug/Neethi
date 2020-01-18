@@ -8,7 +8,7 @@ public class HomePageTest {
 HomePageObject homePage;
 
 public HomePageTest() {
-homePage = new HomePageObject();
+homePage = new HomePageObject12();
 }
 
 @Test
